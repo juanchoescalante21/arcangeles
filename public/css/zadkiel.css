@@ -1,0 +1,89 @@
+.zbody {
+    background-image: url(/images/zadquiel/llamavioleta2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+.reseña-zadquiel{
+    color: rgb(250, 146, 236);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .reseña-zadquiel h1{
+    color: rgb(255, 152, 241);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 40px;
+  }
+  .reseña-zadquiel div{
+    width: 80%;
+  }
+  .reseña-zadquiel div img{
+    width: 100%;
+  }
+  .reseña-zadquiel p{
+    margin: 25px;
+    padding: 5px;
+    background-color: rgba(155, 43, 131, 0.3);
+  }
+  .caracteristicas-zadquiel{
+    margin: 25px;
+    padding: 5px;
+    color: rgb(255, 136, 249);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(156, 90, 151, 0.3);
+  }
+  .caracteristicas-zadquiel h2{
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-zadquiel h4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-zadquiel p{
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-zadquiel div {
+    width: 80%;
+  }
+  .caracteristicas-zadquiel div img {
+    width: 100%;
+  }
+  .invocacion-zadquiel{
+    background-color: rgba(250, 162, 231, 0.7);
+    margin: 25px;
+    padding: 5px;
+    color: rgb(128, 3, 117);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .invocacion-zadquiel h3{
+    padding:  0 25px 15px;
+  }
+  .invocacion-zadquiel div{
+    width: 80%;
+  }
+  .invocacion-zadquiel div img{
+    width: 100%;
+  }
+  .invocacion-zadquiel p{
+    margin: 25px;
+    padding: 5px;
+  }

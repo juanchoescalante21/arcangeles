@@ -1,0 +1,200 @@
+.index {
+  background-image: url(/images/cielo2gif.gif);
+  display: flex;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.aindex {
+  width: 100%;
+  height: 80px;
+  font-size: 50px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+.pindex {
+  padding-top: 11px;
+  font-size: 30px;
+  height: 40px;
+}
+.general {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.miguel {
+  width: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(63, 63, 252);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  box-sizing: 25px;
+  box-shadow: 5px solid rgb(75, 75, 245);
+}
+.miguel p {
+  color: aliceblue;
+}
+.miguel a {
+  color: blue;
+  background-image: url("/images/miguel/rayoazul.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: 1px solid rgb(132, 132, 255);
+}
+.miguel a:focus {
+  background-color: rgb(25, 192, 214);
+}
+.jofiel {
+  width: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(252, 252, 66);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+}
+.jofiel a {
+  color: yellow;
+  background-image: url("/images/jofiel/rayoamarillo.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-sizing: 1px solid rgb(132, 132, 255);
+}
+.jofiel a:focus {
+  background-color: rgb(253, 253, 125);
+}
+
+.jofiel p {
+  color: aliceblue;
+}
+.chamuel {
+  width: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(253, 182, 206);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+}
+.chamuel p{
+  color: white;
+}
+.chamuel a {
+  color: deeppink;
+  background-image: url("/images/chamuel/Rayorosa.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: 1px solid rgb(132, 132, 255);
+}
+.chamuel a:focus {
+  background-color: rgb(255, 191, 212);
+}
+.gabriel {
+  width: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(243, 231, 231);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+}
+.gabriel a {
+  color: white;
+  background-image: url("/images/gabriel/rayoblanco.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-sizing: 1px solid rgb(132, 132, 255);
+}
+.rafael {
+  width: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(27, 252, 27);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+}
+.rafael p{
+  color: white;
+}
+.rafael a {
+  color: greenyellow;
+  background-image: url("/images/rafael/rayoverde.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-sizing: 1px solid rgb(132, 132, 255);
+}
+.rafael a:focus {
+  background-color: rgb(10, 252, 10);
+}
+.uriel {
+  width: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(252, 2, 2);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+}
+.uriel p{
+  color: white;
+}
+.uriel a {
+  color: orange;
+  background-image: url("/images/uriel/ororubi.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.uriel a:focus {
+  background-color: rgb(252, 2, 2);
+}
+.zadquiel {
+  width: 80%;
+  margin-bottom: 15px;
+  background-color: rgb(185, 31, 185);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+}
+.zadquiel p{
+  color: white;
+}
+.zadquiel a {
+  color: purple;
+  background-image: url("/images/zadquiel/rayovioleta.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: 1px solid rgb(132, 132, 255);
+}
+.zadquiel a:focus {
+  background-color: rgb(185, 31, 185);
+}
+@media (min-width:480px){
+  .index {
+    justify-content: center;
+    align-items: center;
+  }
+  .index div{
+    max-width: 600px;
+    min-width: 599px;
+  }
+
+}

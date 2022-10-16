@@ -1,0 +1,84 @@
+.cbody {
+  background-image: url(/images/chamuel/rosabellino.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.reseña-chamuel{
+  color: pink;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.reseña-chamuel h1{
+  color: pink;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 40px;
+
+}
+.reseña-chamuel div{
+  width: 80%;
+}
+.reseña-chamuel div img{
+  width: 100%;
+}
+.reseña-chamuel p{
+  margin: 25px;
+  padding: 5px;
+  background-color: rgba(192, 2, 151, 0.7);
+}
+.caracteristicas-chamuel{
+  margin: 25px;
+  padding: 5px;
+  color: rgb(252, 177, 248);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 128, 244, 0.3);
+}
+.caracteristicas-chamuel h2{
+  margin: 25px;
+  padding: 5px;
+}
+.caracteristicas-chamuel h4{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+  padding: 5px;
+}
+.caracteristicas-chamuel p{
+  margin: 25px;
+  padding: 5px;
+}
+.invocacion-chamuel{
+  background-color: rgba(250, 162, 231, 0.7);
+  margin: 25px;
+  padding: 5px;
+  color: rgb(255, 0, 234);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.invocacion-chamuel h3{
+  padding:  0 25px 15px;
+}
+.invocacion-chamuel div{
+  width: 80%;
+}
+.invocacion-chamuel div img{
+  width: 100%;
+}
+.invocacion-chamuel p{
+  margin: 25px;
+  padding: 5px;
+}

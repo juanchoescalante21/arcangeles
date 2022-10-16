@@ -1,0 +1,89 @@
+.gbody {
+  background-image: url(/images/gabriel/rayoblanco.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.reseña-gabriel {
+  color: rgb(71, 70, 70);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.reseña-gabriel h1 {
+  color: rgb(71, 70, 70);
+  font-size: 40px;
+  font-weight: bold;
+  margin: 40px;
+}
+.reseña-gabriel div {
+  width: 80%;
+}
+.reseña-gabriel div img {
+  width: 100%;
+}
+.reseña-gabriel p {
+  margin: 25px;
+  padding: 5px;
+  background-color: rgba(252, 227, 246, 0.452);
+}
+.caracteristicas-gabriel {
+  margin: 25px;
+  padding: 5px;
+  color: rgb(53, 50, 53);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(168, 159, 167, 0.6);
+}
+.caracteristicas-gabriel h2 {
+  margin: 25px;
+  padding: 5px;
+}
+.caracteristicas-gabriel h4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+  padding: 5px;
+}
+.caracteristicas-gabriel p {
+  margin: 25px;
+  padding: 5px;
+}
+.caracteristicas-gabriel div {
+  width: 80%;
+}
+.caracteristicas-gabriel div img {
+  width: 100%;
+}
+.invocacion-gabriel {
+  background-color: rgba(233, 252, 252, 0.7);
+  margin: 25px;
+  padding: 5px;
+  color: rgb(54, 51, 54);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.invocacion-gabriel h3 {
+  padding: 0 25px 15px;
+}
+.invocacion-gabriel div {
+  width: 80%;
+}
+.invocacion-gabriel div img {
+  width: 100%;
+}
+.invocacion-gabriel p {
+  margin: 25px;
+  padding: 5px;
+}

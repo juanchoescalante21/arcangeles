@@ -1,0 +1,89 @@
+.bjofiel{
+    background-image: url(/images/jofiel/amarillo.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.reseña-jofiel{
+    color: rgb(255, 251, 11);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .reseña-jofiel h1{
+    color: rgb(252, 248, 36);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 40px;
+  }
+  .reseña-jofiel div{
+    width: 80%;
+  }
+  .reseña-jofiel div img{
+    width: 100%;
+  }
+  .reseña-jofiel p{
+    margin: 25px;
+    padding: 5px;
+    background-color: rgba(155, 43, 131, 0.3);
+  }
+  .caracteristicas-jofiel{
+    margin: 25px;
+    padding: 5px;
+    color: rgb(255, 253, 136);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(156, 90, 151, 0.3);
+  }
+  .caracteristicas-jofiel h2{
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-jofiel h4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-jofiel p{
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-jofiel div {
+    width: 80%;
+  }
+  .caracteristicas-jofiel div img {
+    width: 100%;
+  }
+  .invocacion-jofiel{
+    background-color: rgba(245, 243, 158, 0.932);
+    margin: 25px;
+    padding: 5px;
+    color: rgb(233, 217, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .invocacion-jofiel h3{
+    padding:  0 25px 15px;
+  }
+  .invocacion-jofiel div{
+    width: 80%;
+  }
+  .invocacion-jofiel div img{
+    width: 100%;
+  }
+  .invocacion-jofiel p{
+    margin: 25px;
+    padding: 5px;
+  }

@@ -1,0 +1,88 @@
+.ubody{
+    background-image: url(/images/uriel/llama.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.reseña-uriel{
+    color: orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.reseña-uriel h1{
+    color: orange;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 40px;
+
+}
+.reseña-uriel div{
+    width: 80%;
+}
+.reseña-uriel div img{
+    width: 100%;
+}
+.reseña-uriel p{
+    margin: 25px;
+    padding: 5px;
+    background-color: rgba(124, 82, 2, 0.7);
+}
+.caracteristicas-uriel{
+    margin: 25px;
+    padding: 5px;
+    color: rgb(231, 228, 21);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(252, 165, 4, 0.4);
+}
+.caracteristicas-uriel h2{
+    margin: 25px;
+    padding: 5px;
+}
+.caracteristicas-uriel h4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.caracteristicas-uriel div{
+    width: 70%;
+}
+.caracteristicas-uriel div img{
+    width: 100%;
+}
+.caracteristicas-uriel p{
+    margin: 25px;
+    padding: 5px;
+}
+.invocacion-uriel{
+    background-color: rgba(252, 210, 134, 0.7);
+    margin: 25px;
+    padding: 5px;
+    color: orangered;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.invocacion-uriel h3{
+    padding:  0 25px 15px;
+}
+.invocacion-uriel div{
+    width: 80%;
+}
+.invocacion-uriel div img{
+    width: 100%;
+}
+.invocacion-uriel p{
+    margin: 25px;
+    padding: 5px;
+}

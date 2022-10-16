@@ -1,0 +1,122 @@
+.rbody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/images/rafael/starsgreen.gif);
+  background-attachment: fixed;
+}
+
+.rafael-reseña {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 125px;
+
+}
+
+.rafael-reseña div img {
+  background: transparent;
+  width: 100%;
+}
+
+.rafael-reseña h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: greenyellow;
+  margin: 20px;
+}
+
+.rafael-reseña p {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: greenyellow;
+  background-color: rgba(15, 13, 13, 0.4);
+}
+.caracteristicas-rafael{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(192, 189, 189, 0.4);
+}
+.caracteristicas-rafael h2{
+  color: greenyellow;
+  margin: 50px 0;
+}
+.caracteristicas-rafael h4{
+  color: greenyellow;
+  margin: 50px 0 25px 0;
+}
+.caracteristicas-rafael p{
+  color: greenyellow;
+  padding: 0 40px;
+}
+.caracteristicas-rafael ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.caracteristicas-rafael ul li{
+  display: flex;
+  flex-direction: column;
+}
+.caracteristicas-rafael ul li a {
+  color: greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.caracteristicas-rafael div.madremaria{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.caracteristicas-rafael div.madremaria img{
+  width: 100%;
+}
+.caracteristicas-rafael h3{
+  color: greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.invocacion-rafael {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 125px;
+  background-color: rgba(58, 54, 54, 0.4);
+}
+.invocacion-rafael h3{
+  color: white;
+  margin: 20px 20px;
+}
+.invocacion-rafael p{
+  color: white;
+  margin: 50px;
+}
+.volver{
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+  font-size: large;
+  font-weight: bold;
+}

@@ -1,0 +1,90 @@
+.bmiguel{
+    background-image: url(/images/miguel/blue2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.reseña-miguel{
+    color: rgb(13, 145, 253);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .reseña-miguel h1{
+    color: rgb(16, 148, 255);
+    font-size: 40px;
+    font-weight: bold;
+    margin: 40px;
+  }
+  .reseña-miguel div{
+    width: 80%;
+  }
+  .reseña-miguel div img{
+    width: 100%;
+  }
+  .reseña-miguel p{
+    margin: 25px;
+    padding: 5px;
+    background-color: rgba(55, 58, 255, 0.3);
+  }
+  .caracteristicas-miguel{
+    margin: 25px;
+    padding: 5px;
+    color: rgb(95, 119, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(29, 5, 170, 0.3);
+  }
+  .caracteristicas-miguel h2{
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-miguel h4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-miguel p{
+    margin: 25px;
+    padding: 5px;
+  }
+  .caracteristicas-miguel div {
+    width: 80%;
+  }
+  .caracteristicas-miguel div img {
+    width: 100%;
+  }
+.invocacion-miguel{
+    background-color: rgba(162, 182, 250, 0.7);
+    margin: 25px;
+    padding: 5px;
+    color: rgb(5, 45, 177);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .invocacion-miguel h3{
+    padding:  0 25px 15px;
+  }
+  .invocacion-miguel div{
+    width: 80%;
+  }
+  .invocacion-miguel div img{
+    width: 100%;
+  }
+  .invocacion-miguel p{
+    margin: 25px;
+    padding: 5px;
+  }
+
